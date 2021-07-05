@@ -1,8 +1,8 @@
 class Tgcli < Formula
   desc "TigerGraphCLI: TigerGraph   "
   homepage "https://www.tigergraph.com"
-  url "https://github.com/TigerGraph-DevLabs/tgcli/archive/refs/tags/0.3.0.tar.gz"
-  sha256 "3f0cb51294163e5c145caa6b0dc1f6f5ce7a10bc5a72f9cf86ce92b7093f75fe"
+  url "https://github.com/TigerGraph-DevLabs/tgcli/archive/refs/tags/0.4.0.tar.gz"
+  sha256 "a33efc374cef4b78d64ad679d0fbb9ed10a40483fd775016677283bd5c972fe4"
   license ""
 
   def install
